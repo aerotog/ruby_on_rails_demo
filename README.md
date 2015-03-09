@@ -1,6 +1,3 @@
-# Ruby on Rails Tutorial: sample application
+# Ruby on Rails: Demo Application
 
-This is the sample application for the
-[*Ruby on Rails Tutorial:
-Learn Web Development with Rails*](http://www.railstutorial.org/)
-by [Michael Hartl](http://www.michaelhartl.com/).
+This is an application to demonstrate my understanding and ability with Ruby on Rails. It should be hosted on Heroku at ADD_URL_LINK.
