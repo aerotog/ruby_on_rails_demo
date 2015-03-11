@@ -17,6 +17,6 @@
 /tmp
 
 # Ignore AWS setting files, not currently used
-/AWS,
-/ENV[S3_ACCESS_KEY],
+/AWS
+/ENV[S3_ACCESS_KEY]
 /ENV[S3_SECRET_KEY]
