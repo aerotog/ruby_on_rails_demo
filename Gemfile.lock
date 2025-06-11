@@ -229,7 +229,8 @@ GEM
     psych (5.2.6)
       date
       stringio
-    puma (3.12.6)
+    puma (6.6.0)
+      nio4r (~> 2.0)
     racc (1.8.1)
     rack (2.2.14)
     rack-session (1.0.2)
@@ -367,7 +368,7 @@ DEPENDENCIES
   minitest-reporters (= 1.0.5)
   nokogiri (~> 1.15)
   pg (= 0.17.1)
-  puma (~> 3.12.2)
+  puma (>= 5.6.8)
   rack (~> 2.2.14)
   rails (~> 8.0.2)
   rails-html-sanitizer (~> 1.6.2)
