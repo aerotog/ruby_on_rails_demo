@@ -13,3 +13,8 @@
  *= require_tree .
  *= require_self
  */
+
+/*
+ * Sprockets will use application.scss instead of application.css for stylesheets
+ * application.css has been replaced by application.scss for Bootstrap 5 support
+ */
