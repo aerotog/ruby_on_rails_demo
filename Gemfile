@@ -17,7 +17,7 @@ gem 'turbolinks',           '2.3.0'
 gem 'jbuilder',             '~> 2.7'
 # Removed sdoc gem due to dependency conflicts with secure json version
 # Add/Update vulnerable gems
-gem 'rack',                  '~> 2.0.8'
+gem 'rack',                  '~> 2.2.14'
 gem 'activesupport',        '~> 5.2.8.1'
 gem 'rails-html-sanitizer', '~> 1.0.3'
 gem 'loofah',               '~> 2.19.1'
